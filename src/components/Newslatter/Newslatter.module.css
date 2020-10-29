@@ -4,13 +4,13 @@
     font-weight: 400;
 }
 .newslatter form {
-    display: flex;
-    flex-wrap: nowrap;
+    /* display: flex;
+    flex-wrap: nowrap; */
     width: 480px;
 }
-.newslatter form input {
+.newslatter form input[type="email"] {
     height: 55px;
-    flex: 1 1 70%;
+    /* flex: 1 1 70%; */
     border: 2px solid;
     border-color:#ffca00;
     background: transparent;
@@ -22,13 +22,15 @@
     font-size: 16px;
     font-family: 'Quicksand', sans-serif;
     font-weight: 600;
+    width: 280px;
+    float: left;
 }
-.newslatter form input:focus {
+.newslatter form .email:focus {
     opacity: 0.8;
 }
-.newslatter form button {
+.newslatter form input[type="submit"] {
     height: 55px;
-    flex: 1 1 30%;
+    /* flex: 1 1 30%; */
     background: #ffca00;
     color: #333;
     border: 2px solid;
@@ -38,8 +40,9 @@
     font-size: 14px;
     text-transform: uppercase;
     cursor: pointer;
+    float: left;
 }
-.newslatter form button:hover {
+.newslatter form input[type="submit"]:hover {
     opacity: 0.8;
 }
 
@@ -50,13 +53,17 @@
         width: 100%;
         display: block;
     }
-    .newslatter form input  {
-        width: 100%;
-        margin-right: 0;
+    .newslatter input[type="email"]  {
+        width: 100% !important;
+        margin-right: 0 !important;
         margin-bottom: 15px;
         text-align: center;
     }
-    .newslatter form button  {
+    .newslatter input[type="submit"]  {
         width: 100%;
+        float: none !important;
+    }
+    .clear {
+        overflow: initial !important;
     }
 }
