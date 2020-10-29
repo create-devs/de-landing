@@ -1,0 +1,62 @@
+.newslatter p {
+    font-size: 12px;
+    margin-top: 6px;
+    font-weight: 400;
+}
+.newslatter form {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 480px;
+}
+.newslatter form input {
+    height: 55px;
+    flex: 1 1 70%;
+    border: 2px solid;
+    border-color:#ffca00;
+    background: transparent;
+    border-radius: 4px;
+    color: #333;
+    transition: 0.3s;
+    padding: 0 15px;
+    margin-right: 20px;
+    font-size: 16px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+}
+.newslatter form input:focus {
+    opacity: 0.8;
+}
+.newslatter form button {
+    height: 55px;
+    flex: 1 1 30%;
+    background: #ffca00;
+    color: #333;
+    border: 2px solid;
+    border-color: #ffca00;
+    border-radius: 4px;
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.newslatter form button:hover {
+    opacity: 0.8;
+}
+
+
+
+@media(max-width: 450px){
+    .newslatter form  {
+        width: 100%;
+        display: block;
+    }
+    .newslatter form input  {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 15px;
+        text-align: center;
+    }
+    .newslatter form button  {
+        width: 100%;
+    }
+}
