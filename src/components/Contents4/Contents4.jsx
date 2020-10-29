@@ -18,14 +18,14 @@ const Contents4 = () => {
                     </div>
                     <div className="col-xl-6">
                         <div className={classes.content}>
-                            <h1>Search for the best food around you</h1>
-                            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit dolor modi deserunt temporibus quam. Odio deleniti, sed sint nostrum illo neque atque illum alias cum molestias, officia vero! Ratione, placeat?</p>
-                            <a href="#" className="mr-15">
+                            <h1>Read reviews from real people</h1>                            
+                            {/* <a href="#top" className="button">Signup now</a> */}
+                            {/* <a href="#" className="mr-15">
                                 <img src={playstore} alt="playstore"/>
                             </a>
                             <a href="#">
                                 <img src={appstore} alt="appstore"/>
-                            </a>
+                            </a> */}
                         </div>
                     </div>
                 </div>

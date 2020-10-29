@@ -3,6 +3,12 @@
     padding: 120px 0;
 }
 
+.content {
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
 .content h1 {
     font-size: 66px;
     font-weight: 700;

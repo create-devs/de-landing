@@ -10,9 +10,7 @@ const Contents3 = () => {
                 <div className="row">
                     <div className="col-xl-6">
                         <div className={classes.content}>
-                            <h1>Get the info you need about the restaurant</h1>
-                            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit dolor modi deserunt temporibus quam. Odio deleniti, sed sint nostrum illo neque atque illum alias cum molestias, officia vero! Ratione, placeat?</p>
-                            <a href="#top" className="button">Signup now</a>
+                            <h1>Get the info you need</h1>
                         </div>
                     </div>
                     <div className="col-xl-6">

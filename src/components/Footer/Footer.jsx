@@ -11,10 +11,9 @@ const Footer = () => {
                     <div className={classes.social}>
                         <a href=""><i className="fab fa-facebook-f"></i></a>
                         <a href=""><i className="fab fa-instagram"></i></a>
-                        <a href=""><i className="fab fa-pinterest-p"></i></a>
-                        <a href=""><i className="fab fa-linkedin-in"></i></a>
+                        <a href=""><i className="fab fa-youtube"></i></a>
                     </div>
-                    <p>Copyright &copy; 2020. All rights reserved Dhakaeats.</p>
+                    <p>&copy; 2020 CreateDevs. All rights reserved.</p>
                 </div>
             </div>
         </footer>
