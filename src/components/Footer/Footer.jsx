@@ -9,9 +9,9 @@ const Footer = () => {
                 <div className="centered">
                     <a href="#" className={classes.footerlogo}><img src={logo} alt="logo"/></a>
                     <div className={classes.social}>
-                        <a href=""><i className="fab fa-facebook-f"></i></a>
-                        <a href=""><i className="fab fa-instagram"></i></a>
-                        <a href=""><i className="fab fa-youtube"></i></a>
+                        <a href="http://bit.ly/dhaka-fb"><i className="fab fa-facebook-f"></i></a>
+                        <a href="http://bit.ly/de-insta"><i className="fab fa-instagram"></i></a>
+                        <a href="http://bit.ly/dhaka-yt"><i className="fab fa-youtube"></i></a>
                     </div>
                     <p>&copy; 2020 CreateDevs. All rights reserved.</p>
                 </div>
