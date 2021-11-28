@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/de-landing/static/css/main.390c8f4c.chunk.css",
-    "main.js": "/de-landing/static/js/main.a81c8e11.chunk.js",
-    "main.js.map": "/de-landing/static/js/main.a81c8e11.chunk.js.map",
-    "runtime-main.js": "/de-landing/static/js/runtime-main.f43582f1.js",
-    "runtime-main.js.map": "/de-landing/static/js/runtime-main.f43582f1.js.map",
-    "static/js/2.c2b9534f.chunk.js": "/de-landing/static/js/2.c2b9534f.chunk.js",
-    "static/js/2.c2b9534f.chunk.js.map": "/de-landing/static/js/2.c2b9534f.chunk.js.map",
+    "main.css": "/de-landing/static/css/main.6177ee64.chunk.css",
+    "main.js": "/de-landing/static/js/main.f41db91d.chunk.js",
+    "main.js.map": "/de-landing/static/js/main.f41db91d.chunk.js.map",
+    "runtime-main.js": "/de-landing/static/js/runtime-main.447b4413.js",
+    "runtime-main.js.map": "/de-landing/static/js/runtime-main.447b4413.js.map",
+    "static/js/2.ea4455af.chunk.js": "/de-landing/static/js/2.ea4455af.chunk.js",
+    "static/js/2.ea4455af.chunk.js.map": "/de-landing/static/js/2.ea4455af.chunk.js.map",
     "index.html": "/de-landing/index.html",
-    "precache-manifest.4e1a2947dc1ea3e33a279b7e6d42c2e8.js": "/de-landing/precache-manifest.4e1a2947dc1ea3e33a279b7e6d42c2e8.js",
-    "service-worker.js": "/de-landing/service-worker.js",
-    "static/css/main.390c8f4c.chunk.css.map": "/de-landing/static/css/main.390c8f4c.chunk.css.map",
-    "static/js/2.c2b9534f.chunk.js.LICENSE.txt": "/de-landing/static/js/2.c2b9534f.chunk.js.LICENSE.txt",
-    "static/media/dhaka-eats-logo.png": "/de-landing/static/media/dhaka-eats-logo.c9f8a9a8.png",
-    "static/media/mobilescreen.png": "/de-landing/static/media/mobilescreen.98bfe3e4.png",
-    "static/media/screens2.png": "/de-landing/static/media/screens2.a256f4df.png"
+    "static/css/main.6177ee64.chunk.css.map": "/de-landing/static/css/main.6177ee64.chunk.css.map",
+    "static/js/2.ea4455af.chunk.js.LICENSE.txt": "/de-landing/static/js/2.ea4455af.chunk.js.LICENSE.txt",
+    "static/media/dhaka-eats-logo.002a5d23.png": "/de-landing/static/media/dhaka-eats-logo.002a5d23.png",
+    "static/media/frame.880bb5a1.png": "/de-landing/static/media/frame.880bb5a1.png",
+    "static/media/screen1.6bc8f6b3.png": "/de-landing/static/media/screen1.6bc8f6b3.png",
+    "static/media/screen2.ed9f4c33.png": "/de-landing/static/media/screen2.ed9f4c33.png",
+    "static/media/screen3.5e8de38e.png": "/de-landing/static/media/screen3.5e8de38e.png",
+    "static/media/screen4.90df1894.png": "/de-landing/static/media/screen4.90df1894.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f43582f1.js",
-    "static/js/2.c2b9534f.chunk.js",
-    "static/css/main.390c8f4c.chunk.css",
-    "static/js/main.a81c8e11.chunk.js"
+    "static/js/runtime-main.447b4413.js",
+    "static/js/2.ea4455af.chunk.js",
+    "static/css/main.6177ee64.chunk.css",
+    "static/js/main.f41db91d.chunk.js"
   ]
 }
