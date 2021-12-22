@@ -16,7 +16,6 @@ const Newslatter = () => {
                     </div>
                 </div>
             </form>
-            <p>Updates on launch!</p>
         </div>
     )
 }

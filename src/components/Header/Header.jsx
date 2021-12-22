@@ -9,7 +9,7 @@ const Header = () => {
                 <a href="/" className={classes.logo}><img src={logo} alt="dhaka-eats-logo"/></a>
                 <nav className={classes.navigation}>
                     <ul>
-                        <li><a href="#top" className={classes.button}>Signup</a></li>
+                        <li><a href="#top" className={classes.button}>Subscribe</a></li>
                     </ul>
                 </nav>
             </div>

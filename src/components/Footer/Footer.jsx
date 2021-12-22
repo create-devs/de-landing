@@ -13,7 +13,7 @@ const Footer = () => {
                         <a href="http://bit.ly/de-insta"><i className="fab fa-instagram"></i></a>
                         <a href="http://bit.ly/dhaka-yt"><i className="fab fa-youtube"></i></a>
                     </div>
-                    <p>&copy; 2020 CreateDevs. All rights reserved.</p>
+                    <p>&copy; 2021 CreateDevs LLC. All rights reserved.</p>
                 </div>
             </div>
         </footer>
