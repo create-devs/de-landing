@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.6177ee64.chunk.css",
-    "main.js": "/static/js/main.cd0c402e.chunk.js",
-    "main.js.map": "/static/js/main.cd0c402e.chunk.js.map",
+    "main.css": "/static/css/main.c5ed9422.chunk.css",
+    "main.js": "/static/js/main.da6c1117.chunk.js",
+    "main.js.map": "/static/js/main.da6c1117.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b41cfe56.js",
     "runtime-main.js.map": "/static/js/runtime-main.b41cfe56.js.map",
     "static/js/2.57bae0ae.chunk.js": "/static/js/2.57bae0ae.chunk.js",
     "static/js/2.57bae0ae.chunk.js.map": "/static/js/2.57bae0ae.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.6177ee64.chunk.css.map": "/static/css/main.6177ee64.chunk.css.map",
+    "static/css/main.c5ed9422.chunk.css.map": "/static/css/main.c5ed9422.chunk.css.map",
     "static/js/2.57bae0ae.chunk.js.LICENSE.txt": "/static/js/2.57bae0ae.chunk.js.LICENSE.txt",
     "static/media/dhaka-eats-logo.002a5d23.png": "/static/media/dhaka-eats-logo.002a5d23.png",
     "static/media/frame.880bb5a1.png": "/static/media/frame.880bb5a1.png",
+    "static/media/google-play.f902960a.png": "/static/media/google-play.f902960a.png",
     "static/media/screen1.5c0d457f.png": "/static/media/screen1.5c0d457f.png",
     "static/media/screen2.572809f5.png": "/static/media/screen2.572809f5.png",
     "static/media/screen3.b7d564f7.png": "/static/media/screen3.b7d564f7.png",
@@ -20,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.b41cfe56.js",
     "static/js/2.57bae0ae.chunk.js",
-    "static/css/main.6177ee64.chunk.css",
-    "static/js/main.cd0c402e.chunk.js"
+    "static/css/main.c5ed9422.chunk.css",
+    "static/js/main.da6c1117.chunk.js"
   ]
 }
