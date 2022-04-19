@@ -13,7 +13,7 @@ const Contents = () => {
                         <div className={classes.content}>
                             <h1>Don't know where to eat around Dhaka?</h1>
                             <h4>We've got you covered</h4>
-                            <Newslatter/>
+                            <a href='https://play.google.com/store/apps/details?id=com.createdevs.dhakaeats&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img height='100px' alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
                         </div>
                     </div>
                     <div className="col-xl-6">
